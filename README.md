@@ -5,7 +5,7 @@ A sleek, responsive, and functional To-Do List application built with **Next.js*
 
 ## 🚀 Live Demo
 
-[Link to Live Demo](https://your-vercel-app.vercel.app) *(Update this after deployment)*
+https://modern-todo-list-coral.vercel.app/
 
 ## ✨ Features
 
