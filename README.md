@@ -2,7 +2,6 @@
 
 A sleek, responsive, and functional To-Do List application built with **Next.js** and **Tailwind CSS**. Designed with a modern glassmorphism aesthetic and focused on user experience.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot+Coming+Soon)
 
 ## 🚀 Live Demo
 
